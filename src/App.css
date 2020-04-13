@@ -1,6 +1,9 @@
 .app {
-  height: 100vh;
+  min-height: 100vh;
   background: rgb(107, 158, 195);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .tweet {
